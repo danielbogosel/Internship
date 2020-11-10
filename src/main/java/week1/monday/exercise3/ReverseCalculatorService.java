@@ -1,4 +1,4 @@
-package courses.exercice3;
+package week1.monday.exercise3;
 
 import java.util.Stack;
 
